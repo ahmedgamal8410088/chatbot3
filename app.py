@@ -55,7 +55,7 @@ with st.sidebar.expander(" 🛠️ Settings ", expanded=False):
 
 
 # Set up the Streamlit app layout
-st.title("🧠 Chat Bot 🤖 Powered by Ahmed Gamal")
+st.title("🧠 Chat Bot Powered by Ahmed Gamal🤖")
 # st.markdown(" > Powered by Ahmed Gamal")
 
 # Ask the user to enter their OpenAI API key
